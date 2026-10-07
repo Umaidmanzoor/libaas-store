@@ -1,0 +1,1057 @@
+{
+  "atelier/fabric": {
+    "width": 2000,
+    "height": 3000,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/atelier/fabric-480.webp?v=bb8c65ab8377",
+        "avif": "/img/atelier/fabric-480.avif?v=bb8c65ab8377"
+      },
+      {
+        "width": 800,
+        "webp": "/img/atelier/fabric-800.webp?v=bb8c65ab8377",
+        "avif": "/img/atelier/fabric-800.avif?v=bb8c65ab8377"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/atelier/fabric-1200.webp?v=bb8c65ab8377",
+        "avif": "/img/atelier/fabric-1200.avif?v=bb8c65ab8377"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/atelier/fabric-1800.webp?v=bb8c65ab8377",
+        "avif": "/img/atelier/fabric-1800.avif?v=bb8c65ab8377"
+      }
+    ]
+  },
+  "collections/phirans": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/collections/phirans-480.webp?v=eb1648988252",
+        "avif": "/img/collections/phirans-480.avif?v=eb1648988252"
+      },
+      {
+        "width": 800,
+        "webp": "/img/collections/phirans-800.webp?v=eb1648988252",
+        "avif": "/img/collections/phirans-800.avif?v=eb1648988252"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/collections/phirans-1200.webp?v=eb1648988252",
+        "avif": "/img/collections/phirans-1200.avif?v=eb1648988252"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/collections/phirans-1800.webp?v=eb1648988252",
+        "avif": "/img/collections/phirans-1800.avif?v=eb1648988252"
+      }
+    ]
+  },
+  "collections/shawls": {
+    "width": 1800,
+    "height": 2400,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/collections/shawls-480.webp?v=9dc73fe23dd0",
+        "avif": "/img/collections/shawls-480.avif?v=9dc73fe23dd0"
+      },
+      {
+        "width": 800,
+        "webp": "/img/collections/shawls-800.webp?v=9dc73fe23dd0",
+        "avif": "/img/collections/shawls-800.avif?v=9dc73fe23dd0"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/collections/shawls-1200.webp?v=9dc73fe23dd0",
+        "avif": "/img/collections/shawls-1200.avif?v=9dc73fe23dd0"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/collections/shawls-1800.webp?v=9dc73fe23dd0",
+        "avif": "/img/collections/shawls-1800.avif?v=9dc73fe23dd0"
+      }
+    ]
+  },
+  "collections/stoles": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/collections/stoles-480.webp?v=bee906bd6e44",
+        "avif": "/img/collections/stoles-480.avif?v=bee906bd6e44"
+      },
+      {
+        "width": 800,
+        "webp": "/img/collections/stoles-800.webp?v=bee906bd6e44",
+        "avif": "/img/collections/stoles-800.avif?v=bee906bd6e44"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/collections/stoles-1200.webp?v=bee906bd6e44",
+        "avif": "/img/collections/stoles-1200.avif?v=bee906bd6e44"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/collections/stoles-1800.webp?v=bee906bd6e44",
+        "avif": "/img/collections/stoles-1800.avif?v=bee906bd6e44"
+      }
+    ]
+  },
+  "collections/suits": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/collections/suits-480.webp?v=a90b65a1f7cc",
+        "avif": "/img/collections/suits-480.avif?v=a90b65a1f7cc"
+      },
+      {
+        "width": 800,
+        "webp": "/img/collections/suits-800.webp?v=a90b65a1f7cc",
+        "avif": "/img/collections/suits-800.avif?v=a90b65a1f7cc"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/collections/suits-1200.webp?v=a90b65a1f7cc",
+        "avif": "/img/collections/suits-1200.avif?v=a90b65a1f7cc"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/collections/suits-1800.webp?v=a90b65a1f7cc",
+        "avif": "/img/collections/suits-1800.avif?v=a90b65a1f7cc"
+      }
+    ]
+  },
+  "hero/hero-1": {
+    "width": 1800,
+    "height": 2400,
+    "variants": [
+      {
+        "width": 240,
+        "webp": "/img/hero/hero-1-240.webp?v=9dc73fe23dd0",
+        "avif": "/img/hero/hero-1-240.avif?v=9dc73fe23dd0"
+      },
+      {
+        "width": 480,
+        "webp": "/img/hero/hero-1-480.webp?v=9dc73fe23dd0",
+        "avif": "/img/hero/hero-1-480.avif?v=9dc73fe23dd0"
+      },
+      {
+        "width": 800,
+        "webp": "/img/hero/hero-1-800.webp?v=9dc73fe23dd0",
+        "avif": "/img/hero/hero-1-800.avif?v=9dc73fe23dd0"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/hero/hero-1-1200.webp?v=9dc73fe23dd0",
+        "avif": "/img/hero/hero-1-1200.avif?v=9dc73fe23dd0"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/hero/hero-1-1800.webp?v=9dc73fe23dd0",
+        "avif": "/img/hero/hero-1-1800.avif?v=9dc73fe23dd0"
+      }
+    ]
+  },
+  "hero/hero-2": {
+    "width": 1800,
+    "height": 1350,
+    "variants": [
+      {
+        "width": 240,
+        "webp": "/img/hero/hero-2-240.webp?v=9b219d899694",
+        "avif": "/img/hero/hero-2-240.avif?v=9b219d899694"
+      },
+      {
+        "width": 480,
+        "webp": "/img/hero/hero-2-480.webp?v=9b219d899694",
+        "avif": "/img/hero/hero-2-480.avif?v=9b219d899694"
+      },
+      {
+        "width": 800,
+        "webp": "/img/hero/hero-2-800.webp?v=9b219d899694",
+        "avif": "/img/hero/hero-2-800.avif?v=9b219d899694"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/hero/hero-2-1200.webp?v=9b219d899694",
+        "avif": "/img/hero/hero-2-1200.avif?v=9b219d899694"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/hero/hero-2-1800.webp?v=9b219d899694",
+        "avif": "/img/hero/hero-2-1800.avif?v=9b219d899694"
+      }
+    ]
+  },
+  "hero/hero-3": {
+    "width": 2000,
+    "height": 3000,
+    "variants": [
+      {
+        "width": 240,
+        "webp": "/img/hero/hero-3-240.webp?v=bb8c65ab8377",
+        "avif": "/img/hero/hero-3-240.avif?v=bb8c65ab8377"
+      },
+      {
+        "width": 480,
+        "webp": "/img/hero/hero-3-480.webp?v=bb8c65ab8377",
+        "avif": "/img/hero/hero-3-480.avif?v=bb8c65ab8377"
+      },
+      {
+        "width": 800,
+        "webp": "/img/hero/hero-3-800.webp?v=bb8c65ab8377",
+        "avif": "/img/hero/hero-3-800.avif?v=bb8c65ab8377"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/hero/hero-3-1200.webp?v=bb8c65ab8377",
+        "avif": "/img/hero/hero-3-1200.avif?v=bb8c65ab8377"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/hero/hero-3-1800.webp?v=bb8c65ab8377",
+        "avif": "/img/hero/hero-3-1800.avif?v=bb8c65ab8377"
+      }
+    ]
+  },
+  "products/badam-suit/almond": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/badam-suit/almond-480.webp?v=36120e9f5fb7",
+        "avif": "/img/products/badam-suit/almond-480.avif?v=36120e9f5fb7"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/badam-suit/almond-800.webp?v=36120e9f5fb7",
+        "avif": "/img/products/badam-suit/almond-800.avif?v=36120e9f5fb7"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/badam-suit/almond-1200.webp?v=36120e9f5fb7",
+        "avif": "/img/products/badam-suit/almond-1200.avif?v=36120e9f5fb7"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/badam-suit/almond-1800.webp?v=36120e9f5fb7",
+        "avif": "/img/products/badam-suit/almond-1800.avif?v=36120e9f5fb7"
+      }
+    ]
+  },
+  "products/badam-suit/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/badam-suit/natural-480.webp?v=e7a5a200e1f2",
+        "avif": "/img/products/badam-suit/natural-480.avif?v=e7a5a200e1f2"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/badam-suit/natural-800.webp?v=e7a5a200e1f2",
+        "avif": "/img/products/badam-suit/natural-800.avif?v=e7a5a200e1f2"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/badam-suit/natural-1200.webp?v=e7a5a200e1f2",
+        "avif": "/img/products/badam-suit/natural-1200.avif?v=e7a5a200e1f2"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/badam-suit/natural-1800.webp?v=e7a5a200e1f2",
+        "avif": "/img/products/badam-suit/natural-1800.avif?v=e7a5a200e1f2"
+      }
+    ]
+  },
+  "products/chinar-kani-shawl/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/chinar-kani-shawl/natural-480.webp?v=7b6234dcd061",
+        "avif": "/img/products/chinar-kani-shawl/natural-480.avif?v=7b6234dcd061"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/chinar-kani-shawl/natural-800.webp?v=7b6234dcd061",
+        "avif": "/img/products/chinar-kani-shawl/natural-800.avif?v=7b6234dcd061"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/chinar-kani-shawl/natural-1200.webp?v=7b6234dcd061",
+        "avif": "/img/products/chinar-kani-shawl/natural-1200.avif?v=7b6234dcd061"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/chinar-kani-shawl/natural-1800.webp?v=7b6234dcd061",
+        "avif": "/img/products/chinar-kani-shawl/natural-1800.avif?v=7b6234dcd061"
+      }
+    ]
+  },
+  "products/chinar-kani-shawl/saffron": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/chinar-kani-shawl/saffron-480.webp?v=95ef6e182679",
+        "avif": "/img/products/chinar-kani-shawl/saffron-480.avif?v=95ef6e182679"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/chinar-kani-shawl/saffron-800.webp?v=95ef6e182679",
+        "avif": "/img/products/chinar-kani-shawl/saffron-800.avif?v=95ef6e182679"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/chinar-kani-shawl/saffron-1200.webp?v=95ef6e182679",
+        "avif": "/img/products/chinar-kani-shawl/saffron-1200.avif?v=95ef6e182679"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/chinar-kani-shawl/saffron-1800.webp?v=95ef6e182679",
+        "avif": "/img/products/chinar-kani-shawl/saffron-1800.avif?v=95ef6e182679"
+      }
+    ]
+  },
+  "products/dal-stole/moss": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/dal-stole/moss-480.webp?v=7d5e333b2eda",
+        "avif": "/img/products/dal-stole/moss-480.avif?v=7d5e333b2eda"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/dal-stole/moss-800.webp?v=7d5e333b2eda",
+        "avif": "/img/products/dal-stole/moss-800.avif?v=7d5e333b2eda"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/dal-stole/moss-1200.webp?v=7d5e333b2eda",
+        "avif": "/img/products/dal-stole/moss-1200.avif?v=7d5e333b2eda"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/dal-stole/moss-1800.webp?v=7d5e333b2eda",
+        "avif": "/img/products/dal-stole/moss-1800.avif?v=7d5e333b2eda"
+      }
+    ]
+  },
+  "products/dal-stole/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/dal-stole/natural-480.webp?v=286656dad355",
+        "avif": "/img/products/dal-stole/natural-480.avif?v=286656dad355"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/dal-stole/natural-800.webp?v=286656dad355",
+        "avif": "/img/products/dal-stole/natural-800.avif?v=286656dad355"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/dal-stole/natural-1200.webp?v=286656dad355",
+        "avif": "/img/products/dal-stole/natural-1200.avif?v=286656dad355"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/dal-stole/natural-1800.webp?v=286656dad355",
+        "avif": "/img/products/dal-stole/natural-1800.avif?v=286656dad355"
+      }
+    ]
+  },
+  "products/dusk-stole/charcoal": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/dusk-stole/charcoal-480.webp?v=b81685405881",
+        "avif": "/img/products/dusk-stole/charcoal-480.avif?v=b81685405881"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/dusk-stole/charcoal-800.webp?v=b81685405881",
+        "avif": "/img/products/dusk-stole/charcoal-800.avif?v=b81685405881"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/dusk-stole/charcoal-1200.webp?v=b81685405881",
+        "avif": "/img/products/dusk-stole/charcoal-1200.avif?v=b81685405881"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/dusk-stole/charcoal-1800.webp?v=b81685405881",
+        "avif": "/img/products/dusk-stole/charcoal-1800.avif?v=b81685405881"
+      }
+    ]
+  },
+  "products/dusk-stole/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/dusk-stole/natural-480.webp?v=e32a63ce3d9c",
+        "avif": "/img/products/dusk-stole/natural-480.avif?v=e32a63ce3d9c"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/dusk-stole/natural-800.webp?v=e32a63ce3d9c",
+        "avif": "/img/products/dusk-stole/natural-800.avif?v=e32a63ce3d9c"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/dusk-stole/natural-1200.webp?v=e32a63ce3d9c",
+        "avif": "/img/products/dusk-stole/natural-1200.avif?v=e32a63ce3d9c"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/dusk-stole/natural-1800.webp?v=e32a63ce3d9c",
+        "avif": "/img/products/dusk-stole/natural-1800.avif?v=e32a63ce3d9c"
+      }
+    ]
+  },
+  "products/gulnaar-shawl/01": {
+    "width": 1800,
+    "height": 2400,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/gulnaar-shawl/01-480.webp?v=9dc73fe23dd0",
+        "avif": "/img/products/gulnaar-shawl/01-480.avif?v=9dc73fe23dd0"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/gulnaar-shawl/01-800.webp?v=9dc73fe23dd0",
+        "avif": "/img/products/gulnaar-shawl/01-800.avif?v=9dc73fe23dd0"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/gulnaar-shawl/01-1200.webp?v=9dc73fe23dd0",
+        "avif": "/img/products/gulnaar-shawl/01-1200.avif?v=9dc73fe23dd0"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/gulnaar-shawl/01-1800.webp?v=9dc73fe23dd0",
+        "avif": "/img/products/gulnaar-shawl/01-1800.avif?v=9dc73fe23dd0"
+      }
+    ]
+  },
+  "products/gulnaar-shawl/rose": {
+    "width": 1086,
+    "height": 1448,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/gulnaar-shawl/rose-480.webp?v=3a6f44f2a6c0",
+        "avif": "/img/products/gulnaar-shawl/rose-480.avif?v=3a6f44f2a6c0"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/gulnaar-shawl/rose-800.webp?v=3a6f44f2a6c0",
+        "avif": "/img/products/gulnaar-shawl/rose-800.avif?v=3a6f44f2a6c0"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/gulnaar-shawl/rose-1200.webp?v=3a6f44f2a6c0",
+        "avif": "/img/products/gulnaar-shawl/rose-1200.avif?v=3a6f44f2a6c0"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/gulnaar-shawl/rose-1800.webp?v=3a6f44f2a6c0",
+        "avif": "/img/products/gulnaar-shawl/rose-1800.avif?v=3a6f44f2a6c0"
+      }
+    ]
+  },
+  "products/himal-stole/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/himal-stole/natural-480.webp?v=35b434ea1181",
+        "avif": "/img/products/himal-stole/natural-480.avif?v=35b434ea1181"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/himal-stole/natural-800.webp?v=35b434ea1181",
+        "avif": "/img/products/himal-stole/natural-800.avif?v=35b434ea1181"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/himal-stole/natural-1200.webp?v=35b434ea1181",
+        "avif": "/img/products/himal-stole/natural-1200.avif?v=35b434ea1181"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/himal-stole/natural-1800.webp?v=35b434ea1181",
+        "avif": "/img/products/himal-stole/natural-1800.avif?v=35b434ea1181"
+      }
+    ]
+  },
+  "products/himal-stole/plum": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/himal-stole/plum-480.webp?v=e663984a9e83",
+        "avif": "/img/products/himal-stole/plum-480.avif?v=e663984a9e83"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/himal-stole/plum-800.webp?v=e663984a9e83",
+        "avif": "/img/products/himal-stole/plum-800.avif?v=e663984a9e83"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/himal-stole/plum-1200.webp?v=e663984a9e83",
+        "avif": "/img/products/himal-stole/plum-1200.avif?v=e663984a9e83"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/himal-stole/plum-1800.webp?v=e663984a9e83",
+        "avif": "/img/products/himal-stole/plum-1800.avif?v=e663984a9e83"
+      }
+    ]
+  },
+  "products/mehr-suit/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/mehr-suit/natural-480.webp?v=de4cf9ba0556",
+        "avif": "/img/products/mehr-suit/natural-480.avif?v=de4cf9ba0556"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/mehr-suit/natural-800.webp?v=de4cf9ba0556",
+        "avif": "/img/products/mehr-suit/natural-800.avif?v=de4cf9ba0556"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/mehr-suit/natural-1200.webp?v=de4cf9ba0556",
+        "avif": "/img/products/mehr-suit/natural-1200.avif?v=de4cf9ba0556"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/mehr-suit/natural-1800.webp?v=de4cf9ba0556",
+        "avif": "/img/products/mehr-suit/natural-1800.avif?v=de4cf9ba0556"
+      }
+    ]
+  },
+  "products/mehr-suit/ochre": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/mehr-suit/ochre-480.webp?v=1582b52db480",
+        "avif": "/img/products/mehr-suit/ochre-480.avif?v=1582b52db480"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/mehr-suit/ochre-800.webp?v=1582b52db480",
+        "avif": "/img/products/mehr-suit/ochre-800.avif?v=1582b52db480"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/mehr-suit/ochre-1200.webp?v=1582b52db480",
+        "avif": "/img/products/mehr-suit/ochre-1200.avif?v=1582b52db480"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/mehr-suit/ochre-1800.webp?v=1582b52db480",
+        "avif": "/img/products/mehr-suit/ochre-1800.avif?v=1582b52db480"
+      }
+    ]
+  },
+  "products/morning-stole/cloud": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/morning-stole/cloud-480.webp?v=63a2aeb89047",
+        "avif": "/img/products/morning-stole/cloud-480.avif?v=63a2aeb89047"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/morning-stole/cloud-800.webp?v=63a2aeb89047",
+        "avif": "/img/products/morning-stole/cloud-800.avif?v=63a2aeb89047"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/morning-stole/cloud-1200.webp?v=63a2aeb89047",
+        "avif": "/img/products/morning-stole/cloud-1200.avif?v=63a2aeb89047"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/morning-stole/cloud-1800.webp?v=63a2aeb89047",
+        "avif": "/img/products/morning-stole/cloud-1800.avif?v=63a2aeb89047"
+      }
+    ]
+  },
+  "products/morning-stole/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/morning-stole/natural-480.webp?v=a94e6a7f3ba3",
+        "avif": "/img/products/morning-stole/natural-480.avif?v=a94e6a7f3ba3"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/morning-stole/natural-800.webp?v=a94e6a7f3ba3",
+        "avif": "/img/products/morning-stole/natural-800.avif?v=a94e6a7f3ba3"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/morning-stole/natural-1200.webp?v=a94e6a7f3ba3",
+        "avif": "/img/products/morning-stole/natural-1200.avif?v=a94e6a7f3ba3"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/morning-stole/natural-1800.webp?v=a94e6a7f3ba3",
+        "avif": "/img/products/morning-stole/natural-1800.avif?v=a94e6a7f3ba3"
+      }
+    ]
+  },
+  "products/nargis-suit/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/nargis-suit/natural-480.webp?v=2e5e2c4c0904",
+        "avif": "/img/products/nargis-suit/natural-480.avif?v=2e5e2c4c0904"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/nargis-suit/natural-800.webp?v=2e5e2c4c0904",
+        "avif": "/img/products/nargis-suit/natural-800.avif?v=2e5e2c4c0904"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/nargis-suit/natural-1200.webp?v=2e5e2c4c0904",
+        "avif": "/img/products/nargis-suit/natural-1200.avif?v=2e5e2c4c0904"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/nargis-suit/natural-1800.webp?v=2e5e2c4c0904",
+        "avif": "/img/products/nargis-suit/natural-1800.avif?v=2e5e2c4c0904"
+      }
+    ]
+  },
+  "products/nargis-suit/sage": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/nargis-suit/sage-480.webp?v=1bea81f5f5da",
+        "avif": "/img/products/nargis-suit/sage-480.avif?v=1bea81f5f5da"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/nargis-suit/sage-800.webp?v=1bea81f5f5da",
+        "avif": "/img/products/nargis-suit/sage-800.avif?v=1bea81f5f5da"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/nargis-suit/sage-1200.webp?v=1bea81f5f5da",
+        "avif": "/img/products/nargis-suit/sage-1200.avif?v=1bea81f5f5da"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/nargis-suit/sage-1800.webp?v=1bea81f5f5da",
+        "avif": "/img/products/nargis-suit/sage-1800.avif?v=1bea81f5f5da"
+      }
+    ]
+  },
+  "products/neel-phiran/indigo": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/neel-phiran/indigo-480.webp?v=2315473def4c",
+        "avif": "/img/products/neel-phiran/indigo-480.avif?v=2315473def4c"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/neel-phiran/indigo-800.webp?v=2315473def4c",
+        "avif": "/img/products/neel-phiran/indigo-800.avif?v=2315473def4c"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/neel-phiran/indigo-1200.webp?v=2315473def4c",
+        "avif": "/img/products/neel-phiran/indigo-1200.avif?v=2315473def4c"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/neel-phiran/indigo-1800.webp?v=2315473def4c",
+        "avif": "/img/products/neel-phiran/indigo-1800.avif?v=2315473def4c"
+      }
+    ]
+  },
+  "products/neel-phiran/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/neel-phiran/natural-480.webp?v=3473dfc89960",
+        "avif": "/img/products/neel-phiran/natural-480.avif?v=3473dfc89960"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/neel-phiran/natural-800.webp?v=3473dfc89960",
+        "avif": "/img/products/neel-phiran/natural-800.avif?v=3473dfc89960"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/neel-phiran/natural-1200.webp?v=3473dfc89960",
+        "avif": "/img/products/neel-phiran/natural-1200.avif?v=3473dfc89960"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/neel-phiran/natural-1800.webp?v=3473dfc89960",
+        "avif": "/img/products/neel-phiran/natural-1800.avif?v=3473dfc89960"
+      }
+    ]
+  },
+  "products/sahar-phiran/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/sahar-phiran/natural-480.webp?v=5b58adada306",
+        "avif": "/img/products/sahar-phiran/natural-480.avif?v=5b58adada306"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/sahar-phiran/natural-800.webp?v=5b58adada306",
+        "avif": "/img/products/sahar-phiran/natural-800.avif?v=5b58adada306"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/sahar-phiran/natural-1200.webp?v=5b58adada306",
+        "avif": "/img/products/sahar-phiran/natural-1200.avif?v=5b58adada306"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/sahar-phiran/natural-1800.webp?v=5b58adada306",
+        "avif": "/img/products/sahar-phiran/natural-1800.avif?v=5b58adada306"
+      }
+    ]
+  },
+  "products/sahar-phiran/sand": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/sahar-phiran/sand-480.webp?v=03c10c3fc1b9",
+        "avif": "/img/products/sahar-phiran/sand-480.avif?v=03c10c3fc1b9"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/sahar-phiran/sand-800.webp?v=03c10c3fc1b9",
+        "avif": "/img/products/sahar-phiran/sand-800.avif?v=03c10c3fc1b9"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/sahar-phiran/sand-1200.webp?v=03c10c3fc1b9",
+        "avif": "/img/products/sahar-phiran/sand-1200.avif?v=03c10c3fc1b9"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/sahar-phiran/sand-1800.webp?v=03c10c3fc1b9",
+        "avif": "/img/products/sahar-phiran/sand-1800.avif?v=03c10c3fc1b9"
+      }
+    ]
+  },
+  "products/sumbal-phiran/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/sumbal-phiran/natural-480.webp?v=e0b07e7fa24a",
+        "avif": "/img/products/sumbal-phiran/natural-480.avif?v=e0b07e7fa24a"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/sumbal-phiran/natural-800.webp?v=e0b07e7fa24a",
+        "avif": "/img/products/sumbal-phiran/natural-800.avif?v=e0b07e7fa24a"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/sumbal-phiran/natural-1200.webp?v=e0b07e7fa24a",
+        "avif": "/img/products/sumbal-phiran/natural-1200.avif?v=e0b07e7fa24a"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/sumbal-phiran/natural-1800.webp?v=e0b07e7fa24a",
+        "avif": "/img/products/sumbal-phiran/natural-1800.avif?v=e0b07e7fa24a"
+      }
+    ]
+  },
+  "products/sumbal-phiran/pine": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/sumbal-phiran/pine-480.webp?v=0ea05c1b74d0",
+        "avif": "/img/products/sumbal-phiran/pine-480.avif?v=0ea05c1b74d0"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/sumbal-phiran/pine-800.webp?v=0ea05c1b74d0",
+        "avif": "/img/products/sumbal-phiran/pine-800.avif?v=0ea05c1b74d0"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/sumbal-phiran/pine-1200.webp?v=0ea05c1b74d0",
+        "avif": "/img/products/sumbal-phiran/pine-1200.avif?v=0ea05c1b74d0"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/sumbal-phiran/pine-1800.webp?v=0ea05c1b74d0",
+        "avif": "/img/products/sumbal-phiran/pine-1800.avif?v=0ea05c1b74d0"
+      }
+    ]
+  },
+  "products/valley-shawl/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/valley-shawl/natural-480.webp?v=0aff1e8cf1c9",
+        "avif": "/img/products/valley-shawl/natural-480.avif?v=0aff1e8cf1c9"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/valley-shawl/natural-800.webp?v=0aff1e8cf1c9",
+        "avif": "/img/products/valley-shawl/natural-800.avif?v=0aff1e8cf1c9"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/valley-shawl/natural-1200.webp?v=0aff1e8cf1c9",
+        "avif": "/img/products/valley-shawl/natural-1200.avif?v=0aff1e8cf1c9"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/valley-shawl/natural-1800.webp?v=0aff1e8cf1c9",
+        "avif": "/img/products/valley-shawl/natural-1800.avif?v=0aff1e8cf1c9"
+      }
+    ]
+  },
+  "products/valley-shawl/oat": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/valley-shawl/oat-480.webp?v=71f0a73d5cbd",
+        "avif": "/img/products/valley-shawl/oat-480.avif?v=71f0a73d5cbd"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/valley-shawl/oat-800.webp?v=71f0a73d5cbd",
+        "avif": "/img/products/valley-shawl/oat-800.avif?v=71f0a73d5cbd"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/valley-shawl/oat-1200.webp?v=71f0a73d5cbd",
+        "avif": "/img/products/valley-shawl/oat-1200.avif?v=71f0a73d5cbd"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/valley-shawl/oat-1800.webp?v=71f0a73d5cbd",
+        "avif": "/img/products/valley-shawl/oat-1800.avif?v=71f0a73d5cbd"
+      }
+    ]
+  },
+  "products/yemberzal-suit/ivory": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/yemberzal-suit/ivory-480.webp?v=26db5f7cbf31",
+        "avif": "/img/products/yemberzal-suit/ivory-480.avif?v=26db5f7cbf31"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/yemberzal-suit/ivory-800.webp?v=26db5f7cbf31",
+        "avif": "/img/products/yemberzal-suit/ivory-800.avif?v=26db5f7cbf31"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/yemberzal-suit/ivory-1200.webp?v=26db5f7cbf31",
+        "avif": "/img/products/yemberzal-suit/ivory-1200.avif?v=26db5f7cbf31"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/yemberzal-suit/ivory-1800.webp?v=26db5f7cbf31",
+        "avif": "/img/products/yemberzal-suit/ivory-1800.avif?v=26db5f7cbf31"
+      }
+    ]
+  },
+  "products/yemberzal-suit/rose": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/yemberzal-suit/rose-480.webp?v=097f4b40318e",
+        "avif": "/img/products/yemberzal-suit/rose-480.avif?v=097f4b40318e"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/yemberzal-suit/rose-800.webp?v=097f4b40318e",
+        "avif": "/img/products/yemberzal-suit/rose-800.avif?v=097f4b40318e"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/yemberzal-suit/rose-1200.webp?v=097f4b40318e",
+        "avif": "/img/products/yemberzal-suit/rose-1200.avif?v=097f4b40318e"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/yemberzal-suit/rose-1800.webp?v=097f4b40318e",
+        "avif": "/img/products/yemberzal-suit/rose-1800.avif?v=097f4b40318e"
+      }
+    ]
+  },
+  "products/zafran-shawl/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/zafran-shawl/natural-480.webp?v=9a261f86c9ee",
+        "avif": "/img/products/zafran-shawl/natural-480.avif?v=9a261f86c9ee"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/zafran-shawl/natural-800.webp?v=9a261f86c9ee",
+        "avif": "/img/products/zafran-shawl/natural-800.avif?v=9a261f86c9ee"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/zafran-shawl/natural-1200.webp?v=9a261f86c9ee",
+        "avif": "/img/products/zafran-shawl/natural-1200.avif?v=9a261f86c9ee"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/zafran-shawl/natural-1800.webp?v=9a261f86c9ee",
+        "avif": "/img/products/zafran-shawl/natural-1800.avif?v=9a261f86c9ee"
+      }
+    ]
+  },
+  "products/zafran-shawl/saffron": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/zafran-shawl/saffron-480.webp?v=6433c44f665e",
+        "avif": "/img/products/zafran-shawl/saffron-480.avif?v=6433c44f665e"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/zafran-shawl/saffron-800.webp?v=6433c44f665e",
+        "avif": "/img/products/zafran-shawl/saffron-800.avif?v=6433c44f665e"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/zafran-shawl/saffron-1200.webp?v=6433c44f665e",
+        "avif": "/img/products/zafran-shawl/saffron-1200.avif?v=6433c44f665e"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/zafran-shawl/saffron-1800.webp?v=6433c44f665e",
+        "avif": "/img/products/zafran-shawl/saffron-1800.avif?v=6433c44f665e"
+      }
+    ]
+  },
+  "products/zoon-phiran/natural": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/zoon-phiran/natural-480.webp?v=435d75b8249c",
+        "avif": "/img/products/zoon-phiran/natural-480.avif?v=435d75b8249c"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/zoon-phiran/natural-800.webp?v=435d75b8249c",
+        "avif": "/img/products/zoon-phiran/natural-800.avif?v=435d75b8249c"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/zoon-phiran/natural-1200.webp?v=435d75b8249c",
+        "avif": "/img/products/zoon-phiran/natural-1200.avif?v=435d75b8249c"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/zoon-phiran/natural-1800.webp?v=435d75b8249c",
+        "avif": "/img/products/zoon-phiran/natural-1800.avif?v=435d75b8249c"
+      }
+    ]
+  },
+  "products/zoon-phiran/walnut": {
+    "width": 1122,
+    "height": 1402,
+    "variants": [
+      {
+        "width": 480,
+        "webp": "/img/products/zoon-phiran/walnut-480.webp?v=040fcb08fd04",
+        "avif": "/img/products/zoon-phiran/walnut-480.avif?v=040fcb08fd04"
+      },
+      {
+        "width": 800,
+        "webp": "/img/products/zoon-phiran/walnut-800.webp?v=040fcb08fd04",
+        "avif": "/img/products/zoon-phiran/walnut-800.avif?v=040fcb08fd04"
+      },
+      {
+        "width": 1200,
+        "webp": "/img/products/zoon-phiran/walnut-1200.webp?v=040fcb08fd04",
+        "avif": "/img/products/zoon-phiran/walnut-1200.avif?v=040fcb08fd04"
+      },
+      {
+        "width": 1800,
+        "webp": "/img/products/zoon-phiran/walnut-1800.webp?v=040fcb08fd04",
+        "avif": "/img/products/zoon-phiran/walnut-1800.avif?v=040fcb08fd04"
+      }
+    ]
+  }
+}

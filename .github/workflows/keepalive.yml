@@ -1,0 +1,37 @@
+name: Supabase keep-alive
+on:
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+permissions: {}
+jobs:
+  ping:
+    if: github.event.repository.private == true
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Check configuration and read one public category
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL || secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          SUPABASE_PUBLISHABLE_KEY: ${{ secrets.SUPABASE_PUBLISHABLE_KEY || secrets.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY }}
+        run: |
+          node --input-type=module <<'JS'
+          import {appendFileSync} from 'node:fs';
+          const url=process.env.SUPABASE_URL,key=process.env.SUPABASE_PUBLISHABLE_KEY;
+          if(!url||!key){
+            const note='Keep-alive skipped: add SUPABASE_URL and SUPABASE_PUBLISHABLE_KEY to repository Actions secrets. Netlify variables are separate. No database request was made.';
+            console.log('::notice::'+note);
+            appendFileSync(process.env.GITHUB_STEP_SUMMARY,note+'\n');
+          }else{
+            let endpoint;
+            try{endpoint=new URL('/rest/v1/categories?select=slug&limit=1',url);if(endpoint.protocol!=='https:')throw new Error();}
+            catch{console.error('::error::SUPABASE_URL must be a valid HTTPS project URL.');process.exit(1);}
+            let ok=false,status='connection failure';
+            for(let attempt=0;attempt<3;attempt++){
+              try{const response=await fetch(endpoint,{headers:{apikey:key},signal:AbortSignal.timeout(15000)});status=String(response.status);ok=response.ok;await response.arrayBuffer();if(ok||response.status<500)break;}catch{}
+              if(attempt<2)await new Promise(resolve=>setTimeout(resolve,2000));
+            }
+            if(!ok){console.error('::error::Supabase keep-alive failed: '+status+'. Check project availability, Actions secrets and public category access.');process.exit(1);}
+            appendFileSync(process.env.GITHUB_STEP_SUMMARY,'Public category read succeeded. No service-role key was used.\n');
+          }
+          JS

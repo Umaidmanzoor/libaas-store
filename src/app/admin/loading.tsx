@@ -1,0 +1,1 @@
+export default function AdminLoading(){return <main className="admin-login" aria-busy="true"><p className="admin-eyebrow">LIBAAS · OWNER</p><div style={{height:42,background:"#e3d9c9",borderRadius:4,marginBottom:20}}/><div style={{height:120,background:"#e9e1d4",borderRadius:4}}/><p>Loading owner area…</p></main>}

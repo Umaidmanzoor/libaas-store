@@ -1,0 +1,450 @@
+[
+  {
+    "slug": "gulnaar-shawl",
+    "name": "Gulnaar Shawl",
+    "category": "shawls",
+    "technique": "Sozni-inspired florals",
+    "price": 12500,
+    "color": "Natural",
+    "sizes": [
+      "One size"
+    ],
+    "description": "A natural ivory shawl with colourful floral detail and a generous drape.",
+    "featured": true,
+    "colors": [
+      "Natural",
+      "Rose"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Rose": {
+        "slot": "products/gulnaar-shawl/rose"
+      },
+      "Natural": {
+        "slot": "products/gulnaar-shawl/01"
+      }
+    }
+  },
+  {
+    "slug": "zoon-phiran",
+    "name": "Zoon Phiran",
+    "category": "phirans",
+    "technique": "Tilla-inspired detail",
+    "price": 6800,
+    "color": "Walnut",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "A loose walnut-coloured silhouette with a border inspired by tilla work.",
+    "featured": true,
+    "colors": [
+      "Walnut",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Walnut": {
+        "slot": "products/zoon-phiran/walnut"
+      },
+      "Natural": {
+        "slot": "products/zoon-phiran/natural"
+      }
+    }
+  },
+  {
+    "slug": "badam-suit",
+    "name": "Badam Suit",
+    "category": "suits",
+    "technique": "Aari-inspired vines",
+    "price": 8200,
+    "color": "Almond",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Almond tones and trailing vine details bring a gentle rhythm to this suit.",
+    "featured": true,
+    "colors": [
+      "Almond",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Almond": {
+        "slot": "products/badam-suit/almond"
+      },
+      "Natural": {
+        "slot": "products/badam-suit/natural"
+      }
+    }
+  },
+  {
+    "slug": "dal-stole",
+    "name": "Dal Stole",
+    "category": "stoles",
+    "technique": "Plain weave",
+    "price": 3200,
+    "color": "Moss",
+    "sizes": [
+      "One size"
+    ],
+    "description": "A soft moss-toned accent for the everyday wardrobe, kept simple with a plain weave.",
+    "featured": true,
+    "colors": [
+      "Moss",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Moss": {
+        "slot": "products/dal-stole/moss"
+      },
+      "Natural": {
+        "slot": "products/dal-stole/natural"
+      }
+    }
+  },
+  {
+    "slug": "chinar-kani-shawl",
+    "name": "Chinar Kani Shawl",
+    "category": "shawls",
+    "technique": "Kani-inspired pattern",
+    "price": 14800,
+    "color": "Saffron",
+    "sizes": [
+      "One size"
+    ],
+    "description": "A warm saffron palette and chinar-inspired pattern imagined as a generous shawl.",
+    "featured": true,
+    "colors": [
+      "Saffron",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Saffron": {
+        "slot": "products/chinar-kani-shawl/saffron"
+      },
+      "Natural": {
+        "slot": "products/chinar-kani-shawl/natural"
+      }
+    }
+  },
+  {
+    "slug": "neel-phiran",
+    "name": "Neel Phiran",
+    "category": "phirans",
+    "technique": "Aari-inspired detail",
+    "price": 7200,
+    "color": "Indigo",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "An indigo layer with a relaxed cut and aari-inspired detailing at the edges.",
+    "featured": true,
+    "colors": [
+      "Indigo",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Indigo": {
+        "slot": "products/neel-phiran/indigo"
+      },
+      "Natural": {
+        "slot": "products/neel-phiran/natural"
+      }
+    }
+  },
+  {
+    "slug": "yemberzal-suit",
+    "name": "Yemberzal Suit",
+    "category": "suits",
+    "technique": "Sozni-inspired florals",
+    "price": 9400,
+    "color": "Ivory",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "An ivory suit with small floral details inspired by sozni work.",
+    "featured": true,
+    "colors": [
+      "Ivory",
+      "Rose"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Ivory": {
+        "slot": "products/yemberzal-suit/ivory"
+      },
+      "Rose": {
+        "slot": "products/yemberzal-suit/rose"
+      }
+    }
+  },
+  {
+    "slug": "dusk-stole",
+    "name": "Dusk Stole",
+    "category": "stoles",
+    "technique": "Fine herringbone",
+    "price": 3600,
+    "color": "Charcoal",
+    "sizes": [
+      "One size"
+    ],
+    "description": "A charcoal stole with a subtle herringbone idea and an understated finish.",
+    "featured": true,
+    "colors": [
+      "Charcoal",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Charcoal": {
+        "slot": "products/dusk-stole/charcoal"
+      },
+      "Natural": {
+        "slot": "products/dusk-stole/natural"
+      }
+    }
+  },
+  {
+    "slug": "valley-shawl",
+    "name": "Valley Shawl",
+    "category": "shawls",
+    "technique": "Quiet borders",
+    "price": 8900,
+    "color": "Oat",
+    "sizes": [
+      "One size"
+    ],
+    "description": "An oat-toned shawl with quiet borders and room to wrap up.",
+    "featured": false,
+    "colors": [
+      "Oat",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Oat": {
+        "slot": "products/valley-shawl/oat"
+      },
+      "Natural": {
+        "slot": "products/valley-shawl/natural"
+      }
+    }
+  },
+  {
+    "slug": "sahar-phiran",
+    "name": "Sahar Phiran",
+    "category": "phirans",
+    "technique": "Tilla-inspired cuffs",
+    "price": 7400,
+    "color": "Sand",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "A sand-coloured phiran with easy proportions and tilla-inspired cuffs.",
+    "featured": false,
+    "colors": [
+      "Sand",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Sand": {
+        "slot": "products/sahar-phiran/sand"
+      },
+      "Natural": {
+        "slot": "products/sahar-phiran/natural"
+      }
+    }
+  },
+  {
+    "slug": "mehr-suit",
+    "name": "Mehr Suit",
+    "category": "suits",
+    "technique": "Aari-inspired florals",
+    "price": 9100,
+    "color": "Ochre",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "An ochre suit with floral details and a softly structured silhouette.",
+    "featured": false,
+    "colors": [
+      "Ochre",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Ochre": {
+        "slot": "products/mehr-suit/ochre"
+      },
+      "Natural": {
+        "slot": "products/mehr-suit/natural"
+      }
+    }
+  },
+  {
+    "slug": "morning-stole",
+    "name": "Morning Stole",
+    "category": "stoles",
+    "technique": "Plain weave",
+    "price": 2900,
+    "color": "Cloud",
+    "sizes": [
+      "One size"
+    ],
+    "description": "A cloud-toned stole, imagined as a light layer for cool mornings.",
+    "featured": false,
+    "colors": [
+      "Cloud",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Cloud": {
+        "slot": "products/morning-stole/cloud"
+      },
+      "Natural": {
+        "slot": "products/morning-stole/natural"
+      }
+    }
+  },
+  {
+    "slug": "zafran-shawl",
+    "name": "Zafran Shawl",
+    "category": "shawls",
+    "technique": "Sozni-inspired chinar border",
+    "price": 11800,
+    "color": "Saffron",
+    "sizes": [
+      "One size"
+    ],
+    "description": "A muted saffron wrap with maroon chinar leaves and a softly embroidered border.",
+    "featured": false,
+    "colors": [
+      "Saffron",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Saffron": {
+        "slot": "products/zafran-shawl/saffron"
+      },
+      "Natural": {
+        "slot": "products/zafran-shawl/natural"
+      }
+    }
+  },
+  {
+    "slug": "sumbal-phiran",
+    "name": "Sumbal Phiran",
+    "category": "phirans",
+    "technique": "Tilla-inspired paisley",
+    "price": 7800,
+    "color": "Pine",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "A deep pine silhouette, generous sleeves and fine gold-toned paisley at the neckline.",
+    "featured": false,
+    "colors": [
+      "Pine",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Pine": {
+        "slot": "products/sumbal-phiran/pine"
+      },
+      "Natural": {
+        "slot": "products/sumbal-phiran/natural"
+      }
+    }
+  },
+  {
+    "slug": "nargis-suit",
+    "name": "Nargis Suit",
+    "category": "suits",
+    "technique": "Narcissus-inspired florals",
+    "price": 10200,
+    "color": "Sage",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Sage tones, a flowing dupatta and delicate ivory narcissus-inspired vines.",
+    "featured": false,
+    "colors": [
+      "Sage",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Sage": {
+        "slot": "products/nargis-suit/sage"
+      },
+      "Natural": {
+        "slot": "products/nargis-suit/natural"
+      }
+    }
+  },
+  {
+    "slug": "himal-stole",
+    "name": "Himal Stole",
+    "category": "stoles",
+    "technique": "Sozni-inspired border",
+    "price": 4200,
+    "color": "Plum",
+    "sizes": [
+      "One size"
+    ],
+    "description": "A plum-coloured layer with a slender gold-toned border and a soft fringe.",
+    "featured": false,
+    "colors": [
+      "Plum",
+      "Natural"
+    ],
+    "fabric": "Please enquire for full fabric composition and care details.",
+    "dimensions": "Please confirm measurements and fit before ordering.",
+    "media": {
+      "Plum": {
+        "slot": "products/himal-stole/plum"
+      },
+      "Natural": {
+        "slot": "products/himal-stole/natural"
+      }
+    }
+  }
+]

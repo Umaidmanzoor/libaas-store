@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+.DS_Store
+*.log
+*.tsbuildinfo
+.netlify/
+coverage/
+test-results/
+playwright-report/
+screenshots/
+supabase/.temp/
+*.pem
+*.key

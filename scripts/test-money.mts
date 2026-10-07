@@ -1,0 +1,16 @@
+import { strict as assert } from 'node:assert';
+import { money, rupeesToPaise, paiseToRupees, MAX_PAISE } from '../src/lib/money.ts';
+assert.equal(rupeesToPaise('0.10') + rupeesToPaise('0.20'), 30);
+assert.equal(rupeesToPaise(0.10 + 0.20), 30);
+assert.equal(rupeesToPaise('0.1'), 10);
+assert.equal(rupeesToPaise(1.005), 101);
+assert.equal(rupeesToPaise('148000.99'), 14800099);
+assert.equal(rupeesToPaise('21474836.47'), MAX_PAISE);
+assert.equal(paiseToRupees(10), '0.10');
+assert.equal(paiseToRupees(14800099), '148000.99');
+assert.equal(money(14800000), '₹1,48,000');
+assert.equal(money(1480010), '₹14,800.1');
+for(const bad of ['', '-1', '1.001', '1e3', 'NaN', 'Infinity', '21474836.48'])assert.throws(()=>rupeesToPaise(bad));
+for(const bad of [NaN,Infinity,-1])assert.throws(()=>rupeesToPaise(bad));
+for(const value of [0,1,10,101,999999,MAX_PAISE])assert.equal(rupeesToPaise(paiseToRupees(value)),value);
+console.log('PASS rupee input, decimal rounding, Indian grouping, CSV decimals and integer limits');
